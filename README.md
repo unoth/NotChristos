@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/038/935/389/large/raoni-dorim-mountains-night-highress.jpg?1624474759" width="1100"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/038/935/389/large/raoni-dorim-mountains-night-highress.jpg?1624474759" width="1100" height="300"/>
 </div>
 <div id="badges">
   <a href="https://t.me/notchristos">
