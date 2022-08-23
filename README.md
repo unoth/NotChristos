@@ -5,11 +5,11 @@
   <a href="https://t.me/notchristos">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=NotChristos&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=NotChristos&style=flat-square&color=blue" alt="Views"/>
 </div>
 
 ---
-### Languages and Tools :
+#### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -18,7 +18,7 @@
 </div>
 
 ---
-###  My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotChristos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+####  My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotChristos&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
