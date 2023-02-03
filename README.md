@@ -2,7 +2,7 @@
  <img src="https://64.media.tumblr.com/7056159fa5205b33b84a57a5c90cfe6a/tumblr_olyroujF3B1vcwcjeo1_500.gifv" width="500"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/notchristos">
+  <a href="https://t.me/unoth">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=NotChristos&style=flat-square&color=blue" alt="Views"/>
@@ -22,6 +22,6 @@
 <div id="stats" align="center">
  
 ####  My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotChristos&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unoth&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
