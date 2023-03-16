@@ -5,7 +5,6 @@
   <a href="https://t.me/notchristos">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=NotChristos&style=flat-square&color=blue" alt="Views"/>
 </div>
 
 ---
