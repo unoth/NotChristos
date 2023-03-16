@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://64.media.tumblr.com/7056159fa5205b33b84a57a5c90cfe6a/tumblr_olyroujF3B1vcwcjeo1_500.gifv" width="500"/>
+ <img src="https://64.media.tumblr.com/7056159fa5205b33b84a57a5c90cfe6a/tumblr_olyroujF3B1vcwcjeo1_500.gifv" width="310"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/notchristos">
@@ -9,6 +9,11 @@
 </div>
 
 ---
+<div id="stats" align="center">
+ 
+####  My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unoth&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <div id="tools" align="center">
  
 #### Languages and Tools :
@@ -18,10 +23,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
-<div id="stats" align="center">
- 
-####  My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unoth&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
