@@ -3,7 +3,7 @@
 </div>
 <div id="header" align="center">
  Hi everybody! My name's Kris.
- I'm learning Android/Java development! I will be glad to meet new people!
+ I'm learning Android/Java development. I'll be glad to meet new people!✨
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/notchristos">
