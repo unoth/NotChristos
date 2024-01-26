@@ -27,7 +27,7 @@ I'm learning Android/Java development. I'll be glad to meet new people!✨
  
 ####  My Stats :
  <a href="https://github.com/unoth?tab=repositories">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unoth&layout=compact&theme=transparent"  alt="Repositories Next"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unoth&layout=compact&bg_color=00000000&title_color=E39186&text_color=E39186&border_radius=6.5"  alt="Repositories Next"/>
  </a>
 </div>
 
