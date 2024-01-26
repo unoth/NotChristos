@@ -14,6 +14,12 @@ I'm learning Android/Java development. I'll be glad to meet new people!✨
   <a href="https://t.me/notchristos">
    <img src="https://img.shields.io/badge/Telegram-5091CD?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  </div>
+
+ <div id="badges" align="center">
+   <a href="https://dk.mobdev@gmail.com">
+   <img src="https://img.shields.io/badge/Email-E39186?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>
 
 ---------
