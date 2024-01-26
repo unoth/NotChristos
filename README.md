@@ -1,6 +1,6 @@
 <div id="header_img" align="center">
  <a href="https://github.com/unoth">
-  <img src="https://64.media.tumblr.com/7056159fa5205b33b84a57a5c90cfe6a/tumblr_olyroujF3B1vcwcjeo1_500.gifv" width="310"/>
+  <img src="https://64.media.tumblr.com/7056159fa5205b33b84a57a5c90cfe6a/tumblr_olyroujF3B1vcwcjeo1_500.gifv" width="350"/>
  </a>
 </div>
 
@@ -18,16 +18,14 @@ I'm learning Android/Java development. I'll be glad to meet new people!✨
 
  <div id="badges_email" align="center">
    <a href="https://dk.mobdev@gmail.com">
-   <img src="https://img.shields.io/badge/Email-E39186?logo=gmail&logoColor=white" alt="Email Badge"/>
+   <img src="https://img.shields.io/badge/Email-7675A2?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
----------
+
 <div id="stats_statistics" align="center">
- 
-####  My Stats :
  <a href="https://github.com/unoth?tab=repositories">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unoth&layout=compact&bg_color=00000000&title_color=7675A2&text_color=7675A2&border_radius=6.5"  alt="Repositories Next"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unoth&layout=compact&bg_color=00000000&title_color=7675A2&text_color=7675A2&hide_border=true&card_width=400px"  alt="Repositories Next"/>
  </a>
 </div>
 
