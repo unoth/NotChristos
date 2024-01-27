@@ -11,13 +11,13 @@ I'm learning Android/Java development. I'll be glad to meet new people!✨
 </div>
 
 <div id="badges_tekegram" align="center">
-  <a href="https://t.me/notchristos">
+  <a href="https://t.me/notchristos" target="_blank">
    <img src="https://img.shields.io/badge/Telegram-5091CD?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   </div>
 
  <div id="badges_email" align="center">
-   <a href="https://dk.mobdev@gmail.com">
+   <a href="https://dk.mobdev@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Email-7675A2?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
