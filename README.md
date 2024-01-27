@@ -17,7 +17,7 @@ I'm learning Android/Java development. I'll be glad to meet new people!✨
   </div>
 
  <div id="badges_email" align="center">
-   <a href="https://dk.mobdev@gmail.com" target="_blank">
+   <a href="mailto:dk.mobdev@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Email-7675A2?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
