@@ -20,6 +20,7 @@ I'm learning Android/Java development. I'll be glad to meet new people!✨
    <a href="mailto:dk.mobdev@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Email-7675A2?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="mailto:dk.mobdev@gmail.com?subject=Mail from Our Site">Email Us</a>
 </div>
 
 
