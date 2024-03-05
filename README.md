@@ -5,9 +5,9 @@
 </div>
 
 <div id="header" align="center">
-Hi everybody! My name's Kris.
+Hi everybody! I'm Kris.
 
-I'm learning Android/Java development. I'll be glad to meet new people!✨
+I'm an Android developer. I'll be glad to meet new people!✨
 </div>
 
 <div id="badges_tekegram" align="center">
