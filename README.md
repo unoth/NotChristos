@@ -11,7 +11,7 @@ I'm an Android developer. I'll be glad to meet new people!✨
 </div>
 
 <div id="badges_tekegram" align="center">
-  <a href="https://t.me/notchristos" target="_blank">
+  <a href="https://t.me/dedbynet" target="_blank">
    <img src="https://img.shields.io/badge/Telegram-5091CD?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   </div>
