@@ -1,27 +1,16 @@
-<div id="header_img" align="center">
- <a href="https://github.com/unoth">
-  <img src="https://64.media.tumblr.com/7056159fa5205b33b84a57a5c90cfe6a/tumblr_olyroujF3B1vcwcjeo1_500.gifv" width="350"/>
- </a>
-</div>
-
 <div id="header" align="center">
+ <a href="https://github.com/unoth">
+  <img src="https://64.media.tumblr.com/7056159fa5205b33b84a57a5c90cfe6a/tumblr_olyroujF3B1vcwcjeo1_500.gifv" width="400"/>
+ </a>
+
 Hi everybody! I'm Kris.
 
 I'm an Android developer. I'll be glad to meet new people!✨
+
+[![Telegram](https://img.shields.io/badge/Telegram-5091CD?logo=telegram&logoColor=white)](https://t.me/dedbynet) &nbsp;
+[![Gmail](https://img.shields.io/badge/Email-7675A2?logo=gmail&logoColor=white)](mailto:dk.mobdev@gmail.com?subject=Hello%20Kristina,%20From%20Github)
+
 </div>
-
-<div id="badges_tekegram" align="center">
-  <a href="https://t.me/dedbynet" target="_blank">
-   <img src="https://img.shields.io/badge/Telegram-5091CD?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  </div>
-
- <div id="badges_email" align="center">
-   <a href="mailto:dk.mobdev@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Email-7675A2?logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-
 
 <div id="stats_statistics" align="center">
  <a href="https://github.com/unoth?tab=repositories">
